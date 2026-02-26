@@ -1,0 +1,6 @@
+# Never push passwords to GitHub!
+storage.json
+
+# Python cache files
+__pycache__/
+*.pyc
